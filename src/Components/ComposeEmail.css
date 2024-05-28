@@ -1,0 +1,17 @@
+
+
+/* Remove the border of the Quill editor */
+.ql-container {
+    border: none !important;
+}
+
+.ql-editor {
+    border: none !important;
+    box-shadow: none !important;
+}
+
+/* Optionally, remove the border of the toolbar */
+.ql-toolbar {
+    border: none !important;
+    box-shadow: none !important;
+}
